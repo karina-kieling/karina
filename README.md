@@ -1,10 +1,8 @@
 Olá Devs!👩‍💻✨
 \
-Iniciante na programação 💻 
+Iniciante na programação 💻 Web Full-Stack Student
 \
 Vivendo em Faro/Portugal 📌
-\
-Web Full-Stack Student
 \
 💬 LinkedIn https://www.linkedin.com/in/karina-kieling-654b851b0
 \
