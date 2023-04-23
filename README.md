@@ -1,6 +1,8 @@
 Olá Devs!👩‍💻✨
 \
-Iniciante na programação 💻 Web Full-Stack Student
+Iniciante na programação 💻 
+\
+Web Full-Stack Student
 \
 Vivendo em Faro/Portugal 📌 Brasileira
 \
